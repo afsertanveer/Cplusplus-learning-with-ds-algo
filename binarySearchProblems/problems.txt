@@ -2,3 +2,6 @@
 2.Peak of a Mountain https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 3.Find Pivot Index https://leetcode.com/problems/find-pivot-index/description/
 4.Floor Square root https://www.codingninjas.com/studio/problems/square-root_893351
+5.Book Allocation Problem https://www.codingninjas.com/studio/problems/ayush-and-ninja-test_1090540
+6.Painter's Partition Problem https://www.codingninjas.com/studio/problems/painter's-partition-problem_1089557
+7.Aggressive Cow https://www.codingninjas.com/studio/problems/aggressive-cows_1082559
